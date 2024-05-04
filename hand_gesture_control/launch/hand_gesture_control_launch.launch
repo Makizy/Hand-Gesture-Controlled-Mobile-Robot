@@ -1,0 +1,10 @@
+<launch>
+
+	<!-- launch launch node 1 -->
+	<node name="control" pkg="hand_gesture_control" type="control.py" output="screen" />
+
+	<!-- launch launch node 2 -->
+
+	<node name="hand_gesture_node" pkg="hand_gesture_control" type="hand_gesture.py" output="screen" />
+
+</launch>

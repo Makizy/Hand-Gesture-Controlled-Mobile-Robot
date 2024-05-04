@@ -1,0 +1,17 @@
+<package format="2">
+  <name>hand_gesture_control</name>
+  <version>0.0.0</version>
+  <description>The hand_gesture_control package</description>
+
+  <maintainer email="nazgol.gharsi@gmail.com">nazgol gharsi</maintainer>
+  <license>BSD</license>
+
+  <depend>rospy</depend>
+  <depend>std_msgs</depend>
+  <depend>geometry_msgs</depend>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
+
+
+

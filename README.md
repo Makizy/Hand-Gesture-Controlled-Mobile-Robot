@@ -5,6 +5,10 @@ Control a mobile robot on a 2D map using hand gestures with the MediaPipe librar
 
 
 
+https://github.com/Makizy/Hand-Gesture-Controlled-Mobile-Robot/assets/53753128/9b24b3a9-66a4-46f5-9864-00ef70c78a68
+
+
+
 ## Project Setup and Running Guide
 
 ### Prerequisites
